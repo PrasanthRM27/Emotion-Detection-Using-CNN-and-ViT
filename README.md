@@ -12,6 +12,9 @@ Vision Transformers (ViT): ViTs employ self-attention mechanisms to model long-r
 ![image](https://github.com/user-attachments/assets/47cd3ce1-b83c-4144-8aa7-587358df6207)
 
 
+**Vision Transformer Output:**
+![image](https://github.com/user-attachments/assets/904c74fe-6a62-47d6-adc4-680092d006d7)
+
 
 
 
