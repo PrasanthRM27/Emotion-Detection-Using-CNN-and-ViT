@@ -8,6 +8,7 @@ Convolutional Neural Networks (CNN): CNNs are effective for image-based tasks du
 Vision Transformers (ViT): ViTs employ self-attention mechanisms to model long-range dependencies and capture global context, making them a robust choice for image recognition.
 
 
+**CNN Output:**
 ![image](https://github.com/user-attachments/assets/47cd3ce1-b83c-4144-8aa7-587358df6207)
 
 
