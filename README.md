@@ -1,4 +1,4 @@
-# Emotion-Detection-Using-CNN-and-ViT
+# Comparative Analysis of CNN and Vision Transformer for Emotion Detection in Facial Expressions
 
 **Dataset Description:** The RAF-DB (Real-world Affective Face Database) is a widely used dataset for facial expression recognition, sourced from Kaggle. The data was combined into a single folder and randomly split into training, testing, and validation sets. The distribution of samples across these splits is train 70%, Validation 10% and Test 20%.It includes images annotated with seven basic emotions: Fear, Sad, Surprise, Happy, Neutral, Disgust, and Angry.
 
